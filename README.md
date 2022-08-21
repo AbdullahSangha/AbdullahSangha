@@ -32,7 +32,7 @@ Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data 
 
 **🌏 Data Analysis using Python & Tableau.** 
 
-**🌏 Business Intelligence using python & tableau**
+**🌏 Business Intelligence using Python & Tableau**
  
 **🌏 Computer Vision using OpenCV & Tensorflow** 
 
