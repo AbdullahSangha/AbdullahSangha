@@ -25,6 +25,10 @@ Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data 
   <img width="50" height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google_Chrome-512.png">
   <img width="50" height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google-512.png">
   <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png">
+  <img width="50" height="50" src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png">
+  <img width="50" height="50" src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png">
+  <img width="50" height="50" src="https://github.com/AbdullahSangha/AbdullahSangha/blob/main/Assets/css3.png?raw=true">
+  <img width="50" height="50" src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2020/12/cropped-android-chrome-512x512-1.png">
 </p>
 
 
@@ -41,4 +45,26 @@ Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data 
 **🌏 Deep Learning using Python** 
 
 **🌏 Machine Learning using Keras and Pre trained Models.** 
+
+
+# ⚡️ My Intrests and Hobbies
+
+<img align=right width=520 height=300 src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" 
+style="border-radius:10px">
+
+**❄️ I Love playing video games that have a good story.** 
+
+**❄️ I also have a taste for PVP Games.** 
+
+**❄️ When I am free and joyful, I like to watch some movies.** 
+
+**❄️ My sports of choice are soccer and cricket.** 
+
+**❄️ My Genre of choice is Mystery.** 
+
+**❄️ I am also developing Book Reading Hobby.** 
+
+**🪐 I would love to Explore this beautiful World someday.**
+
+
 
