@@ -49,7 +49,7 @@ Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data 
 
 # ⚡️ My Intrests and Hobbies
 
-<img align=right width=520 height=300 src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" 
+<img align=right width=480 height=260 src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" 
 style="border-radius:10px">
 
 **❄️ I Love playing video games that have a good story.** 
