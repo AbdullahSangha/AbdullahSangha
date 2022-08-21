@@ -56,7 +56,7 @@ style="border-radius:10px">
 
 **❄️ I also have a taste for PVP Games.** 
 
-**❄️ When I am free and joyful, I like to watch some movies.** 
+**❄️ When I am joyful, I like to watch some movies.** 
 
 **❄️ My sports of choice are soccer and cricket.** 
 
