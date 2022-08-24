@@ -16,8 +16,10 @@ Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data 
   <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" >
   <img width="50" height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png">
   <img width="50" height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png">
+  <img width="75" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-   Google_Colaboratory_SVG_Logo.svg.png">
   <img width="200" height="50" src="https://keras.io/img/logo.png">
   <img width="200" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png">  
+  <img width="200" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
 </p>
 
 <p float="left">
