@@ -19,7 +19,6 @@ Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data 
   <img width="75" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-   Google_Colaboratory_SVG_Logo.svg.png">
   <img width="200" height="50" src="https://keras.io/img/logo.png">
   <img width="200" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png">  
-  <img width="200" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
 </p>
 
 <p float="left">
