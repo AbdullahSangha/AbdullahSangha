@@ -67,5 +67,6 @@ style="border-radius:10px">
 
 **🪐 I would love to Explore this beautiful World someday.**
 
-
-
+<p align="left">
+  <img src="https://repobeats.axiom.co/api/embed/cb0c5424a2effe609e95e17ac27f908101934e56.svg" />
+</p>
