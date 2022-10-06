@@ -30,6 +30,9 @@ Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data 
   <img width="50" height="50" src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png">
   <img width="50" height="50" src="https://github.com/AbdullahSangha/AbdullahSangha/blob/main/Assets/css3.png?raw=true">
   <img width="50" height="50" src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2020/12/cropped-android-chrome-512x512-1.png">
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png">
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png">
 </p>
 
 
