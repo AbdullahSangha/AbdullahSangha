@@ -73,8 +73,8 @@ style="border-radius:10px">
 # 📱 Contact Me
 <p float="left">
   <a href="https://www.instagram.com/abdullahsangha/"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /></a>
-  <a href="https://twitter.com/SanghaAbdullah"><img height="50" width="50" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" /></a>  
-  <a href="https://www.kaggle.com/abdullahsangha"><img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" /></a>
-  
-    
+  <a href="https://twitter.com/SanghaAbdullah"><img height="50" width="50" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" /></a>
+  <a href="https://www.fiverr.com/notheadhunter"><img height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/129_Fiverr-512.png" /></a>  
+
+  <a href="https://www.kaggle.com/abdullahsangha"><img height="100" width="100" src="https://miro.medium.com/max/2400/2*tQb2DNhHAMPj6u3peTXOFQ.png" /></a>    
 </p> 
