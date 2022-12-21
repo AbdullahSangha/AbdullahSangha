@@ -70,6 +70,11 @@ style="border-radius:10px">
 
 **🪐 I would love to Explore this beautiful World someday.**
 
-<p align="left">
-  <img src="https://repobeats.axiom.co/api/embed/cb0c5424a2effe609e95e17ac27f908101934e56.svg" />
-</p>
+# 📱 Contact Me
+<p float="left">
+  <a href="https://www.instagram.com/abdullahsangha/"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /></a>
+  <a href="https://twitter.com/SanghaAbdullah"><img height="50" width="50" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" /></a>  
+  <a href="https://www.kaggle.com/abdullahsangha"><img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" /></a>
+  
+    
+</p> 
