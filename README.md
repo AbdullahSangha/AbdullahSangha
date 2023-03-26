@@ -15,7 +15,6 @@ Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data 
   <img width="50" height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
   <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" >
   <img width="50" height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png">
-  <img width="50" height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png">
   <img width="75" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-   Google_Colaboratory_SVG_Logo.svg.png">
   <img width="200" height="50" src="https://keras.io/img/logo.png">
   <img width="200" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png">  
@@ -75,7 +74,7 @@ style="border-radius:10px">
     <a href="https://www.kaggle.com/abdullahsangha"><img height="100" width="100" src="https://miro.medium.com/max/2400/2*tQb2DNhHAMPj6u3peTXOFQ.png" /></a>     
   <a href="https://www.instagram.com/abdullahsangha/"><img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /></a>
   <a href="https://twitter.com/SanghaAbdullah"><img height="100" width="100" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" /></a>
-  <a href="https://www.fiverr.com/notheadhunter"><img height="100" width="100" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/129_Fiverr-512.png" /></a>  
+  <a href="https://www.fiverr.com/notheadhunter"><img height="100" width="100" src="https://s23.q4cdn.com/749308338/files/doc_news/archive/FIV_Logo.png" /></a>  
   <a href="mailto:abdullahsangha747@gmail.com"><img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" /></a>
   <a href="https://www.linkedin.com/in/abdullah-sangha/"><img height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>  
 </p>
