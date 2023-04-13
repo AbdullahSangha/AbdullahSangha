@@ -1,13 +1,21 @@
 
 <img src="https://raw.githubusercontent.com/AbdullahSangha/AbdullahSangha/main/Assets/HEADER.png">
 
-# 👾 About Me  
+# 👾 About Me
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" align=left>
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" align=left>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" align=left>
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" align=left>
+<br/>
+
 
 <img src="https://media.giphy.com/media/LmTRp3wjYrGxIjpaFm/giphy.gif" align=right>
 
 ### I'm a Self Taught Data Analyst & Machine Learning Engineer.
 ### I became a Kaggle Expert at 17 Y/O.
-Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data Analytics, Machine Learning, Deep Learning, and computer vision using Tensor flow, Python, and OpenCV. Experienced in Data Analytics tools like tableau and python frameworks for Data Analysis and Visualization. I started my freelance career back in 2019, and up to this day, I have created lots of business intelligence models, computer vision applications, Deep Learning & Machine learning models, and some applications like American sign language Detection to aid special people in their speech, Traffic surveillance systems, mask detection, and Twitter sentiment analysis, and much more stuff.
+Self Taught Data Analyst, Deep Learning, and ML Engineer with expertise in Data Analytics, Machine Learning, Deep Learning, and computer vision using Tensor flow, Python, and OpenCV. Experienced in Data Analytics tools like tableau and python frameworks for Data Analysis and Visualization. I started my freelance career back in 2019, and up to this day, I have created lots of business intelligence models, computer vision applications, Deep Learning & Machine learning models, and some applications like American sign language Detection to aid special people in their speech, Traffic surveillance systems, mask detection, and 
+<br/>
+Twitter sentiment analysis, and much more stuff.
 
 # 🤖 Skills & Perks 
 
