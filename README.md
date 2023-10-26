@@ -24,7 +24,7 @@ Twitter sentiment analysis, and much more stuff.
   <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" >
   <img width="50" height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png">
   <img width="75" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-   Google_Colaboratory_SVG_Logo.svg.png">
-  <img width="200" height="50" src="https://keras.io/img/logo.png">
+  <img width="50" height="50" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format">
   <img width="200" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png">  
 </p>
 
@@ -86,3 +86,4 @@ style="border-radius:10px">
   <a href="mailto:abdullahsangha747@gmail.com"><img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" /></a>
   <a href="https://www.linkedin.com/in/abdullah-sangha/"><img height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>  
 </p>
+
